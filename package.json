@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-patch",
+  "version": "0.0.1",
+  "description": "A plugin that can help you create project friendly with Vue for @vue/cli 4.5",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hylurk/vue-cli-plugin-patch.git"
+  },
+  "keywords": [
+    "plugin-patch",
+    "patch",
+    "vue",
+    "vue-cli",
+    "plugin",
+    "cli"
+  ],
+  "author": "https://github.com/hylurk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hylurk/vue-cli-plugin-patch/issues"
+  },
+  "homepage": "https://github.com/hylurk/vue-cli-plugin-patch#readme"
+}
