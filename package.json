@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-patch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin that can help you create project friendly with Vue for @vue/cli 4.5",
   "main": "index.js",
   "repository": {
