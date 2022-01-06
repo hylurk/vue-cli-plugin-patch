@@ -8,5 +8,11 @@ module.exports = [
       { name: 'MPA（多页面应用）', value: 'mpa' }
     ],
     default: 'spa'
+  },
+  {
+    name: 'mock',
+    type: 'confirm',
+    message: 'Need to use mock service?',
+    default: false
   }
 ]
